@@ -1,0 +1,10 @@
+{
+  "rpc_url":  "https://eth-sepolia.g.alchemy.com/v2/f3OunY6zRNeWeXd81Ayw4JQGVnIxeJ3M", 
+  "chain_id": 11155111,                                         
+
+  "audit_addr":  "0xe7e428b4158d34133b2a8B2b50da72BbB326011d",        
+  "life_addr":   "0xC440beE26a48Fb87F0C6b389BC7Fa38556a9BCFa",        
+
+  "audit_abi":  "abi/AuditHash_abi.json",      
+  "life_abi":   "abi/BottleLifecycle_abi.json" 
+}
