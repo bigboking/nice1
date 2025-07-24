@@ -63,3 +63,4 @@ table = [
 print("\nproduce 段指纹详细对比")
 print(tabulate(table, tablefmt="github"))
 #chekchek timepoint1， 我什么都没做只是想生成一个新的分支的一个新的节点
+#chekchek timepoint2， 我已经合成好了，我现在想测试这样mian不去fetch我现在合并会怎么样
